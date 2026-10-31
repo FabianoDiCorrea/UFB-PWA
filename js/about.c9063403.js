@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkufb_app"]=self["webpackChunkufb_app"]||[]).push([[594],{603:function(u,n,a){a.r(n),a.d(n,{default:function(){return p}});var t=a(6768);const e={class:"about"};function r(u,n){return(0,t.uX)(),(0,t.CE)("div",e,[...n[0]||(n[0]=[(0,t.Lk)("h1",null,"This is an about page",-1)])])}var s=a(1241);const c={},f=(0,s.A)(c,[["render",r]]);var p=f}}]);

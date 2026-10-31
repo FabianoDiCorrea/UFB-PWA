@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+    <circle cx="32" cy="32" r="30" fill="#061f36" stroke="#00a8e8" stroke-width="2.5"/>
+    <circle cx="32" cy="32" r="23" fill="#0a3258"/>
+    <!-- Ondas da Oceania -->
+    <path d="M18 28 Q 25 22, 32 28 T 46 28" fill="none" stroke="#00a8e8" stroke-width="3" stroke-linecap="round"/>
+    <path d="M18 35 Q 25 29, 32 35 T 46 35" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round"/>
+    <text x="32" y="52" fill="#00a8e8" font-size="8" font-weight="900" font-family="sans-serif" text-anchor="middle">OFC</text>
+  </svg>
